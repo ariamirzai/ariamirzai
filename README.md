@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-*Mainly C/C++ development for embedded Linux systems, utilizing the Qt framework. My [work](https://www.ri.se/en/person/aria-mirzai) is focused on applied [research](https://orcid.org/0009-0003-0563-079X) in safety and cybersecurity for reliable and autonomous systems.*
+*Mainly C/C++ development for embedded Linux systems, utilising the Qt framework. My [work](https://www.ri.se/en/person/aria-mirzai) is focused on applied [research](https://orcid.org/0009-0003-0563-079X) in safety and cybersecurity for reliable and autonomous systems.*
 
 ### Open-source contributions:
 - [**WayWise:**](https://github.com/RISE-Dependable-Transport-Systems/WayWise) A rapid prototyping library for connected, autonomous vehicles developed at [RISE Dependable Transport Systems](https://github.com/RISE-Dependable-Transport-Systems)
