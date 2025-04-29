@@ -1,12 +1,10 @@
-## Hi there 👋
+## Open-source contributions:
 <!--
 *Mainly C/C++ or Python development for embedded Linux systems, utilising the Qt framework. My [work](https://www.ri.se/en/person/aria-mirzai) is focused on applied [research](https://orcid.org/0009-0003-0563-079X) in safety and cybersecurity for reliable and autonomous systems.*
 -->
-### Open-source contributions:
 - [**WayWise:**](https://github.com/RISE-Dependable-Transport-Systems/WayWise) A rapid prototyping library for connected, autonomous vehicles developed at [RISE Dependable Transport Systems](https://github.com/RISE-Dependable-Transport-Systems)
 - [**ControlTower:**](https://github.com/RISE-Dependable-Transport-Systems/ControlTower) A ground control station prototype for MAVLINK-based vehicles. Focus on WayWise and PX4
 - [**RCCar:**](https://github.com/RISE-Dependable-Transport-Systems/RCCar) Implementation of an autonomous rc car based on WayWise
-
 <!--
 **ariamirzai/ariamirzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
