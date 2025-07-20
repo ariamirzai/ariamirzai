@@ -4,7 +4,7 @@
 - [**WayWise:**](https://github.com/RISE-Dependable-Transport-Systems/WayWise) A rapid prototyping library for connected, autonomous vehicles developed at [RISE Dependable Transport Systems](https://github.com/RISE-Dependable-Transport-Systems)
 - [**WayWiseR:**](https://github.com/RISE-Dependable-Transport-Systems/WayWiseR) Integration of WayWise with ROS2 for extended functionality
 - [**ControlTower:**](https://github.com/RISE-Dependable-Transport-Systems/ControlTower) A ground control station prototype for MAVLINK-based vehicles. Focus on WayWise and PX4
-- [**RCCar:**](https://github.com/RISE-Dependable-Transport-Systems/RCCar) Implementation of an autonomous rc car based on WayWise
+- [**RCCar:**](https://github.com/RISE-Dependable-Transport-Systems/RCCar) Implementation of an autonomous RC car based on WayWise
 <!--
 **ariamirzai/ariamirzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
