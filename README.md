@@ -2,7 +2,7 @@
 
 ## Open-source contributions:
 - [**WayWise:**](https://github.com/RISE-Dependable-Transport-Systems/WayWise) A rapid prototyping library for connected, automatic vehicles developed at [RISE Dependable and Autonomous Systems](https://github.com/RISE-Dependable-Transport-Systems)
-- [**WayWiseR:**](https://github.com/RISE-Dependable-Transport-Systems/WayWiseR) Integration of WayWise with ROS 2 for autonomous functionality
+- [**WayWiseR:**](https://github.com/RISE-Dependable-Transport-Systems/WayWiseR) Integration of WayWise with ROS 2 for advanced computer vision, simulation, mapping and autonomous functionality
 - [**ControlTower:**](https://github.com/RISE-Dependable-Transport-Systems/ControlTower) A ground control station prototype for MAVLINK-based vehicles. Focus on PX4
 - [**RCCar:**](https://github.com/RISE-Dependable-Transport-Systems/RCCar) RC car implementation based on WayWise
 <!--
