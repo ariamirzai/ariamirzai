@@ -1,7 +1,7 @@
 *Mainly C/C++ or Python development for embedded Linux systems, utilising the Qt framework and ROS 2. My work is focused on applied research in safety and cybersecurity for reliable and autonomous systems.*
 
 ## Open-source contributions:
-- [**WayWise:**](https://github.com/RISE-Dependable-Transport-Systems/WayWise) A rapid prototyping library for connected, automatic vehicles developed at [RISE Dependable and Autonomous Systems](https://github.com/RISE-Dependable-Transport-Systems)
+- [**WayWise:**](https://github.com/RISE-Dependable-Transport-Systems/WayWise) A rapid prototyping library for connected, automatic vehicles developed at [RISE Dependable and Autonomous Systems](https://scholar.google.com/citations?hl=en&user=u0gw3sEAAAAJ&view_op=list_works&sortby=pubdate)
 - [**WayWiseR:**](https://github.com/RISE-Dependable-Transport-Systems/WayWiseR) Integration of WayWise with ROS 2 for advanced computer vision, simulation, mapping and autonomous functionality
 - [**ControlTower:**](https://github.com/RISE-Dependable-Transport-Systems/ControlTower) A ground control station prototype for MAVLINK-based vehicles. Focus on PX4
 - [**RCCar:**](https://github.com/RISE-Dependable-Transport-Systems/RCCar) RC car implementation based on WayWise
