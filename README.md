@@ -1,4 +1,4 @@
-*Mainly C/C++ or Python development for embedded Linux systems, utilising the Qt framework and ROS 2. My work is focused on applied research in safety and cybersecurity for reliable and autonomous systems.*
+*Mainly C/C++ or Python development for embedded Linux systems, utilising the Qt framework and ROS 2. My work is focused on applied research in cybersecurity and safety for reliable and autonomous systems.*
 
 ## Open-source contributions:
 - [**WayWise:**](https://github.com/das-rise/WayWise) A rapid prototyping library for connected, automatic vehicles developed at [RISE Dependable and Autonomous Systems](https://scholar.google.com/citations?hl=en&user=u0gw3sEAAAAJ&view_op=list_works&sortby=pubdate)
